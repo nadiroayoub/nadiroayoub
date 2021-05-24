@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadiroayoub
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning Service Web Master degree
+- 🌱 I’m currently learning Official University Master's Degree in Application Development and Web Services
 - 💞️ I’m looking to collaborate on A web project
 - 📫 How to reach me by email : nadiroayoub@gmail.com
 
