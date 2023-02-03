@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadiroayoub
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Official University Master's Degree in Application Development and Web Services
-- 💞️ I’m looking to collaborate on A web project
+- 👀 I’m a Full Stack Development
+- 🌱 I’m currently working for Atrebo Company
+- 💞️ I’m looking to improve my software engineering skills
 - 📫 How to reach me by email : nadiroayoub@gmail.com
 - 🎯 Learning Every Day
 
